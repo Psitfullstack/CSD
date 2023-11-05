@@ -1,0 +1,19 @@
+ul{
+    display: flex;
+
+}
+
+li{
+    margin: 20px;
+    list-style: none;
+}
+
+li a{
+    text-decoration: none;
+}
+
+.container1{
+    background-color: aquamarine;
+    margin: 0px;
+    padding: 0px;
+}

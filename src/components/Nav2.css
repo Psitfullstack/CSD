@@ -1,0 +1,16 @@
+ul{
+    display: flex;
+}
+
+li{
+    margin: 20px;
+    list-style: none;
+}
+
+li a{
+    text-decoration: none;
+}
+
+.container2{
+    background-color: rosybrown;
+}
